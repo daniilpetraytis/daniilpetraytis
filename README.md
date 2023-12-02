@@ -1,4 +1,3 @@
 - 👋 Hi, I’m Daniil Petraytis
 - 👀 I’m interested in programming, algorithms and mathematics
-- 🌱 I’m currently learning C, ASM, Django
 - 📫 How to reach me : tg @daniilpetraytis
